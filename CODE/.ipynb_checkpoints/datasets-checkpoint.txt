@@ -1,6 +1,21 @@
+Datasets in zenodo have the same filename, but a different path. Change path in the relevent code to the location you download the datasets to.
 Fig 4
 /gws/nopw/j04/campus/USERS/anwise/AMM15/LONGRUN/mean_cross-shelf_u_1996-2015.nc
 /gws/nopw/j04/campus/pseudoDropBox/PISCES/AMM75/LONGRUN/PROCESSED/section_time_mean_cross-shelf_u_1996-2015.nc
 Fig 5
 /gws/nopw/j04/campus/USERS/anwise/AMM15/LONGRUN/seasonal_cross-shelf_u_1996-2015.nc
 /gws/nopw/j04/campus/pseudoDropBox/PISCES/AMM75/LONGRUN/PROCESSED/section_time_meanseason_cross-shelf_u_1996-2015.nc
+Fig 6
+/home/users/anwise/PISCES/DATA/ASPEX02_05_09_mooringmean_u-crossshelf.nc
+/gws/nopw/j04/campus/USERS/anwise/AMM15/LONGRUN/seasonal_cross-shelf_u_1996-2015.nc
+/gws/nopw/j04/campus/pseudoDropBox/PISCES/AMM75/LONGRUN/PROCESSED/section_time_meanseason_cross-shelf_u_1996-2015.nc
+Fig 7
+/gws/nopw/j04/campus/USERS/anwise/AMM75/AMM75_MOMENTUM/CROSS_SLOPE_FLOW/voltransport_streamfunction_section.nc
+/gws/nopw/j04/campus/USERS/anwise/AMM15/AMM15_MOMENTUM/CROSS_SLOPE_FLOW/voltransport_streamfunction_section.nc
+Fig 8
+/gws/nopw/j04/campus/USERS/anwise/AMM75/AMM75_MOMENTUM/CROSS_SLOPE_FLOW/sectiontime_season.nc
+/gws/nopw/j04/campus/USERS/anwise/AMM15/AMM15_MOMENTUM/CROSS_SLOPE_FLOW/sectiontime_season.nc
+Fig 10
+/gws/nopw/j04/campus/USERS/anwise/AMM75/AMM75_MOMENTUM/CROSS_SLOPE_FLOW/voltransport_streamfunction_section.nc
+/gws/nopw/j04/campus/USERS/anwise/AMM15/AMM15_MOMENTUM/CROSS_SLOPE_FLOW/voltransport_streamfunction_section.nc
+
