@@ -1,0 +1,6 @@
+Fig 4
+/gws/nopw/j04/campus/USERS/anwise/AMM15/LONGRUN/mean_cross-shelf_u_1996-2015.nc
+/gws/nopw/j04/campus/pseudoDropBox/PISCES/AMM75/LONGRUN/PROCESSED/section_time_mean_cross-shelf_u_1996-2015.nc
+Fig 5
+/gws/nopw/j04/campus/USERS/anwise/AMM15/LONGRUN/seasonal_cross-shelf_u_1996-2015.nc
+/gws/nopw/j04/campus/pseudoDropBox/PISCES/AMM75/LONGRUN/PROCESSED/section_time_meanseason_cross-shelf_u_1996-2015.nc
